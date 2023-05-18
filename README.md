@@ -20,7 +20,7 @@ Date 18/05/2023
 11. Minimum number of jumps ( https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
 12. Find the Duplicate Number (https://leetcode.com/problems/find-the-duplicate-number/)
 13. Merge Sorted Array (https://leetcode.com/problems/merge-sorted-array/)
-14. 
+14. Merge Intervals (https://leetcode.com/problems/merge-intervals/)
 
 
 
