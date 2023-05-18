@@ -13,5 +13,15 @@ Date 17/05/2023
 7. Max Min( https://practice.geeksforgeeks.org/problems/reverse-a-string/1)
 8. Write a program to cyclically rotate an array by one.( https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
 9. find Largest sum contiguous Subarray[Kaden'ns algo] ( https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
-10. Minimise the maximum difference between heights (
+10. Minimise the maximum difference between heights 
+
+Date 18/05/2023
+11. Minimum number of jumps ( https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
+12. Find the Duplicate Number (https://leetcode.com/problems/find-the-duplicate-number/)
+13. Merge Sorted Array (https://leetcode.com/problems/merge-sorted-array/)
+14. 
+
+
+
+
 
