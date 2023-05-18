@@ -16,6 +16,7 @@ Date 17/05/2023
 10. Minimise the maximum difference between heights 
 
 Date 18/05/2023
+
 11. Minimum number of jumps ( https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
 12. Find the Duplicate Number (https://leetcode.com/problems/find-the-duplicate-number/)
 13. Merge Sorted Array (https://leetcode.com/problems/merge-sorted-array/)
