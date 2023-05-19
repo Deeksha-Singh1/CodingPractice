@@ -22,6 +22,12 @@ Date 18/05/2023
 13. Merge Sorted Array (https://leetcode.com/problems/merge-sorted-array/)
 14. Merge Intervals (https://leetcode.com/problems/merge-intervals/)
 
+Date 19/05/2023
+
+15. Next greater I (https://leetcode.com/submissions/detail/953374132/)
+16. Next Greater II (https://leetcode.com/submissions/detail/953431581/)
+17. 
+
 
 
 
