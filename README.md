@@ -26,7 +26,12 @@ Date 19/05/2023
 
 15. Next greater I (https://leetcode.com/submissions/detail/953374132/)
 16. Next Greater II (https://leetcode.com/submissions/detail/953431581/)
-17. 
+
+Date 20/05/2023
+
+17. Next Permutation (https://leetcode.com/problems/next-permutation/description/)
+18. Reverse String ( https://leetcode.com/problems/reverse-string/description/)
+19. Factorials of large numbers( https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
 
 
 
