@@ -33,9 +33,17 @@ Date 20/05/2023
 18. Reverse String ( https://leetcode.com/problems/reverse-string/description/)
 19. Factorials of large numbers( https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
 20. Recursion
-21. Find the nth node from the end & remove it.
-22. Check if a Linked List is a palindrome.
-23. Detecting Loop in a Linked List.
+
+Date 19/07/2023
+22. Find the nth node from the end & remove it.
+23. Check if a Linked List is a palindrome.
+24. Detecting Loop in a Linked List.
+25. Minimum Depth of Binary Tree.
+26. Maximum Depth of Binary Tree.
+27. Binary Tree Level Order Traversal.
+28. Same Tree.
+29. Binary Tree Preorder Traversal.
+30. Binary Tree Inorder Traversal.
 
 
 
