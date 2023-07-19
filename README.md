@@ -35,6 +35,7 @@ Date 20/05/2023
 20. Recursion
 
 Date 19/07/2023
+
 22. Find the nth node from the end & remove it.
 23. Check if a Linked List is a palindrome.
 24. Detecting Loop in a Linked List.
