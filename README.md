@@ -44,7 +44,8 @@ Date 19/07/2023
 27. Binary Tree Level Order Traversal.
 28. Same Tree.
 29. Binary Tree Preorder Traversal.
-30. Binary Tree Inorder Traversal.
+30. Binary Tree Inorder Traversal
+31. Path Sum
 
 
 
