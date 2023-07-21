@@ -47,6 +47,11 @@ Date 19/07/2023
 30. Binary Tree Inorder Traversal
 31. Path Sum
 
+Date 21/07/2023
+
+32. Sum Root to Leaf Numbers
+33. Construct Binary Tree from Preorder and Inorder Traversal
+
 
 
 
