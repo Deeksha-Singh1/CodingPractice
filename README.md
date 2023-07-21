@@ -51,6 +51,7 @@ Date 21/07/2023
 
 32. Sum Root to Leaf Numbers
 33. Construct Binary Tree from Preorder and Inorder Traversal
+34. Construct Binary Tree from Inorder and Postorder Traversal
 
 
 
